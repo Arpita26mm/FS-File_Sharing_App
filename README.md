@@ -25,7 +25,7 @@ FS app is a file-sharing application designed to facilitate the easy transfer of
 
   
 
-# #️⃣ How it Works?🤔
+# #️⃣ How to use ?🤔💭
 - Open the FS App.
 - Click Upload button.
 - File Explorer of your system opens.
