@@ -1,48 +1,38 @@
 
 
-![FS_Header](https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/39334a1f-0363-4ffc-939a-357e68799a28)
+![20240622_144148_0000](https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/dfa01b9b-0d95-4076-85f2-a899268ff661)
 
-# 📁FS App
+
+# ⏰TODOX : To-do-List app
 
 Description📄:
 
-FS app is a file-sharing application designed to facilitate the easy transfer of files. It is built using MERN stack (MongoDB, Express.js, React, and Node.js). On Clicking the "Upload" button , it opens your system's file explorer. When you select any file within the app, it generates a unique link for that file and displays it on the App . You can now share this link with anyone, allowing the recipient to easily download the file to their system by just clicking on the link.
-
-
+TODOX is a to-do-list application. It is a simple and easy-to-use app that helps you manage your daily tasks. It is built using HTML, CSS and Javascript. TodoX lets you plan, edit, and delete tasks with ease and thus helps you stay organized.
 
 ## ⭐ Features
-- Easy File Upload: Upload files easily by clicking the 'Upload' button, which opens the file explorer of your system.
-- Automatic Link Generation: Instantly generates a unique shareable link for each uploaded file.
-- Cross-Platform Accessibility: Access and download shared files from any device with an internet connection.
-- User friendly interface
-- MERN Stack: Built with the powerful MERN stack (MongoDB, Express.js, React, and Node.js) for robust performance and scalability.
-- No Sign-Up Required: Share files without the need for registration, simplifying the user experience.
+- Schedule Tasks: Schedule Tasks priority-wise in the app, so that you never forget anything important.
+- Edit Tasks: Edit your tasks anytime to update details.
+- Delete Tasks: If task already done or you no longer want that task in your list, you can simply delete that task and keep your list clean.
+- Easy to Use: The app is simple and straightforward, and so easy to use by everyone.
 
-## 🛠️ Techstack
-- Backend : NodeJs, Express
-- Database : MongoDB
-- Frontend : ReactJs , CSS
+## 🛠️ Technology used
+- HTML
+- CSS
+- Javascript
 
   
 
 # #️⃣ How to use ?🤔💭
-- Open the FS App.
-- Click Upload button.
-- File Explorer of your system opens.
-- Select any file you want to share and click open.
-- The FS App will generate a unique link for your selected file and display it.
-- You can now share this link with anyone.
-- The recepient can easily download the shared file by clicking on the link.
+- Open the TODOX App.
+- Write down a task in the 'Add task' text area
+- Click the 'Add Task' to add that task in the list.
+- Once task added, it will be displayed in the tasks section.
+- Now you can edit or delete the task as per your requirement by clicking the edit and delete button.
 
 ## ✨ Preview
 
 <p align="center">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/05476dcc-c190-4907-8bb4-bacf77df2774" alt="Description of image 1" width="323" height="190">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/af97613e-ca71-4b22-93c7-1a0ca4fe213b" alt="Description of image 2" width="323" height="190">
-</p>
-<p align="center">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/31a556c1-e180-4e55-b22b-a2230cceea64" alt="Description of image 1" width="323" height="190">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/30232f3b-8bf1-498d-a9e0-9c1e89b930a6" alt="Description of image 2" width="323" height="190">
+  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/430e98f2-6ebc-4db4-ab98-a7331fad56e5" alt="Description of image 1" width="800" height="470.5">
 </p>
 
 
